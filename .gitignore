@@ -25,4 +25,4 @@ dist-ssr
 
 # environment variable
 .DS_Store
-12MegaBlog/.env
+.env
